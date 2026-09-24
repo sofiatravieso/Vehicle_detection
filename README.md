@@ -16,7 +16,7 @@ Para lograr resultados de alta precisión, se desarrolló una solución mejorada
 * **Sistema de "Cooldown":** Contadores independientes por carril que evitan el doble conteo de vehículos que se mantienen dentro de la misma ROI.
 
 ## Flujo de Trabajo
-El sistema procesa el vídeo (`trafico.mp4`) siguiendo esta secuencia lógica:
+El sistema procesa el vídeo siguiendo esta secuencia lógica:
 1. **Lectura del video:** Procesamiento del archivo de video cuadro por cuadro.
 2. **Sustracción de fondo:** Aplicación de `BackgroundSubtractorMOG2` con detección de sombras activada.
 3. **Preprocesamiento:** Uso de operaciones morfológicas para eliminar el ruido de la máscara generada.
