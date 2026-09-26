@@ -1,7 +1,7 @@
 # Sistema de Detección de Vehículos con OpenCV
 
 <p align="center">
-  <img src="deteccion-vehiculos.png" alt="Sistema de detección de vehículos" width="800">
+  <img src="Deteccion_vehiculos.png" alt="Sistema de detección de vehículos" width="800">
 </p>
 
 ## Descripción del Proyecto
