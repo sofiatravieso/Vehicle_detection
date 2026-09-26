@@ -1,5 +1,9 @@
 # Sistema de Detección de Vehículos con OpenCV
 
+<p align="center">
+  <img src="deteccion-vehiculos.png" alt="Sistema de detección de vehículos" width="800">
+</p>
+
 ## Descripción del Proyecto
 Este proyecto implementa un sistema de visión por computadora para la detección y conteo de vehículos en vídeos de tráfico. Utilizando técnicas de procesamiento de imágenes con la librería **OpenCV**, el sistema es capaz de analizar el flujo vehicular, diferenciar carriles y llevar un conteo preciso superando los desafíos comunes de iluminación y oclusión.
 
